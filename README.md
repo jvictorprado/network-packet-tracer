@@ -1,7 +1,14 @@
 Cisco Packet Tracer
 <ul>
+  <p> BASIC </p>
   <li>First config</li>
   <li>DHCP server simulation</li>
   <li>HTTP test</li>
-  <li>test to add a simple pdu</li>
+  <li>Test to add a simple pdu</li>
+</ul>
+<ul>
+  <p> LAB </p>
+  <li>Setting date, time and password for privileged mode </li>
+  <li></li>
+  <li></li>
 </ul>
