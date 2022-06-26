@@ -9,6 +9,4 @@ Cisco Packet Tracer
 <ul>
   <p> LAB </p>
   <li>Setting date, time and password for privileged mode </li>
-  <li></li>
-  <li></li>
 </ul>
