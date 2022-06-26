@@ -1,0 +1,18 @@
+1.
+- enable > entra no modo privilegiado
+- show clock >  motra a hr do switch
+- clock set 19:48:05 2 JUN 2022 > muda a hora do switch
+- running-config startup-config > salva as alterações
+
+2.
+Para configurar senha precisa entrar no modo global :
+- configure terminal
+- enable password victor123
+
+3.
+Saindo e botando de novo  show running-config, a senha vai aparecer(não é oq queremos)
+- voltamos p o modo global ( configure terminal ) e damos um novo comando :
+- enable secret victor321
+- exit
+- show running-config  (veremos uma senha criptografada)
+- running-config startup-config > salva as alterações
