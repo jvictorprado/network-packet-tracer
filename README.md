@@ -13,4 +13,5 @@ Cisco Packet Tracer
   <li>Setting a IP on switch  through the interface vlan, Accessing the switch through laptop(with telnet) and protecting the passwords</li>
   <li>Configuring the switch to be able to be access through the SSH</li>
   <li>Configuring vlans</li>
+  <li>Creating 2 vlans (mkt and fin) and setting the port range for each vlan</li>
 </ul>
