@@ -1,0 +1,17 @@
+1. putting serial to if you want to connect it to a modem or another router
+
+2.clock set ____ > setting date and hour
+hostname > naming the host
+line con 0 > protecting de console port
+password victor123
+login
+exec-timeout 5
+exit
+line vty 0 3 > securing remote access ( maximum 4 users )
+password victor123
+exit
+enable secret victor
+exit
+show running-config
+
+...
