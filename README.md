@@ -14,4 +14,5 @@ Cisco Packet Tracer
   <li>Configuring the switch to be able to be access through the SSH</li>
   <li>Configuring vlans</li>
   <li>Creating 2 vlans (mkt and fin) and setting the port range for each vlan</li>
+  <li>Setting router</li>
 </ul>
