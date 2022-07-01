@@ -16,4 +16,5 @@ Cisco Packet Tracer
   <li>Creating 2 vlans (mkt and fin) and setting the port range for each vlan</li>
   <li>Setting router</li>
   <li>Using a router to connect two different networks</li>
+  <li>Configuring a static route</li>
 </ul>
